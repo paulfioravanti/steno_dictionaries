@@ -1,7 +1,8 @@
 # Code Dictionary
 
 This dictionary contains code- and programming-related outlines that _result in
-text output_.
+text output_, as apposed to some side effect like a script running, which does
+not result in any text output.
 
 Plover's default dictionary already contains a lot of tech-related outlines,
 including [shell][] commands. This dictionary does not repeat them, but only
@@ -11,7 +12,7 @@ languages I use frequently.
 I have found that coding with steno is _greatly_ enhanced by liberal use of
 snippets. I code with [Vim][] (see my [vim commands dictionary][] for
 vim-related outlines), and hence use [Ultisnips][] for all my snippets.
-You find all the Ultisnips snippets I use in [my dotfiles][].
+You find all the Ultisnips snippets I use in [Vim Snippets][] repo.
 
 If you want to see an example of coding with steno in action, check out my
 [steno coding YouTube playlist][].
